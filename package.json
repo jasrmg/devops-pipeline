@@ -1,0 +1,21 @@
+{
+  "name": "devops-pipeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node text.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasrmg/devops-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasrmg/devops-pipeline/issues"
+  },
+  "homepage": "https://github.com/jasrmg/devops-pipeline#readme",
+  "description": ""
+}
